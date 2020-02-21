@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    date (3.0.0)
+    yml_reader (0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  date
+  yml_reader
+
+BUNDLED WITH
+   2.1.4
